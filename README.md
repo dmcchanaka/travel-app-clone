@@ -1,4 +1,4 @@
-# travel Clone Application
+# Travel Clone Application
 
 This is new Flutter project.
 
