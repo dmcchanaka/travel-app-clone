@@ -1,6 +1,6 @@
-# travelapp
+# travel Clone Application
 
-A new Flutter project.
+This is new Flutter project.
 
 ## Getting Started
 
